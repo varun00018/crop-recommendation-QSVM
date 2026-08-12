@@ -1,5 +1,5 @@
 * You can see the dataset comparison between Crop_recommendation.csv and dataset13.csv using plot graph (seen in comp.jpg)
-* Here in this project we demonstrated the strength of QSVM in highly non-linear dataset (accuracy of SVM ~ 85% & QSVM ~ 95 , preformance in dataset13.csv(non-linear dataset)).
+* Here in this project we demonstrated the strength of QSVM in highly non-linear dataset (accuracy of SVM ~ 85% & QSVM ~ 95 , performance in dataset13.csv(non-linear dataset)).
 * imported the trained model and use that for crop recommendation using an UI.
 * For UI, Implemented an automated geospatial data extraction by enabling users to click on an interactive map to fetch real-time soil nutrients (N, P, K), pH,
 temperature, humidity, and rainfall using reverse geocoding and public APIs.
